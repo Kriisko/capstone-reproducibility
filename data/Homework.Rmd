@@ -1,5 +1,8 @@
 #440 Reproducibility and Statistics Assignment
 
+<!-- is this showing the 
+changes i entered? such as this message?-->
+
 <!-- Load the politics.csv data file. -->
 First we need to load the data.
 
